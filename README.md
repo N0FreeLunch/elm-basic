@@ -6,12 +6,13 @@ instll in linux
 ---------------
 reference : ```https://github.com/elm/compiler/blob/master/installers/linux/README.md```
 open command line terminal
-  1. curl -L -o elm.gz https://github.com/elm/compiler/releases/download/0.19.1/binary-for-linux-64-bit.gz
-  2. gunzip elm.gz
-  3. chmod +x elm
-  4. sudo mv elm /usr/local/bin/
-  5. elm --help
-
+```
+curl -L -o elm.gz https://github.com/elm/compiler/releases/download/0.19.1/binary-for-linux-64-bit.gz
+gunzip elm.gz
+chmod +x elm
+sudo mv elm /usr/local/bin/
+elm --help
+```
 START
 ---------------
 1. elm init
