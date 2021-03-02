@@ -1,9 +1,7 @@
-elm install
-===========
+## elm install
 reference : https://guide.elm-lang.org/install/elm.html
 
-instll in linux
----------------
+### install in linux
 reference : https://github.com/elm/compiler/blob/master/installers/linux/README.md
 open command line terminal
 ```
@@ -13,29 +11,25 @@ chmod +x elm
 sudo mv elm /usr/local/bin/
 elm --help
 ```
-START
+
+### START
 -----
 ```
 elm init
 ```
 
-setting after 'git clone'
----------
+### setting after 'git clone'
 ```
 elm install
 ```
 
-
-```
-Run with repl (command line language tool)
-------------------------------------------
+### Run with repl (command line language tool)
 ```
 elm repl
 ```
 https://kyunooh.gitbooks.io/elm/content/core_language.html
 
-Run server
-------------
+### Run server
 ```
 elm reactor
 ```
