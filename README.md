@@ -33,3 +33,8 @@ https://kyunooh.gitbooks.io/elm/content/core_language.html
 ```
 elm reactor
 ```
+
+### compile
+```
+elm make src/Main.elm
+```
