@@ -13,8 +13,7 @@ main = Browser.sandbox
 
 -- model
 
-type alias Model =
-  Int
+type alias Model = Int
 
 init : Model
 init = 0

@@ -13,7 +13,6 @@ elm --help
 ```
 
 ### START
------
 ```
 elm init
 ```
@@ -35,6 +34,10 @@ elm reactor
 ```
 
 ### compile
+```
+elm make
+```
+example
 ```
 elm make src/Main.elm
 ```
